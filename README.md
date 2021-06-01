@@ -5,4 +5,6 @@ Week 2 - Getting an input from the user, using simple formulas, intro to data ty
 
 Week 3- shapping, syntax, int vs float
 
-Wekk 4- If Else, Nested If
+Week 4- If Else, Nested If (Projects lost) 
+
+Week 5-
