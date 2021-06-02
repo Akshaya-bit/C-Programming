@@ -7,4 +7,4 @@ Week 3- shapping, syntax, int vs float
 
 Week 4- If Else, Nested If (Projects lost) 
 
-Week 5-
+Week 5-Switch Cases
