@@ -13,5 +13,6 @@ Week 6 -  For Loop Basics
 
 Week 7 - More For Loop 
 
-Week 8 - Working with serieses
+Week 8 - Working with serieses and nested for loop
+
 
